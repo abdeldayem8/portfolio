@@ -1,0 +1,30 @@
+#about {
+    background: pink;
+    padding-block: 4rem;
+ }
+ #about img{
+   animation: imgg 2s ease-in-out infinite;
+   animation-delay: 2s;
+ }
+ 
+ #about button:hover .resumelink{
+   color: #fff;
+ }
+ 
+ .description{
+   margin-top: 7rem;
+  }
+  
+ @keyframes imgg{
+   0%{
+     transform: translateY(0);
+   }
+   50%{
+     transform: translateY(-22px);
+   }
+   100%{
+     transform: translateY(0);
+   }
+ }
+ 
+ 

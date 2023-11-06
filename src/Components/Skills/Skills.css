@@ -1,0 +1,73 @@
+.skills-title{
+    line-height: 1.5;
+    color: #fd6e0a;
+}
+.skills-title h2{
+    color: #15295f;
+}
+
+.skills-section{
+    background: lavender;
+    position: relative;
+    padding: 65px 0 100px;
+}
+.skills-section,.skills-items{
+    display: flex;
+    flex-wrap: wrap;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    gap: 20px;
+}
+.skills-item{
+    flex: 0 0 48%;
+    max-width: 48%;
+}
+@media (max-width:768px){
+    .skills-item{
+        margin: auto;
+        flex: 1 0 48%;
+        max-width: 70%;
+    }
+}
+.skills-info{
+    display: flex;
+    justify-content: space-between;
+}
+.skills-info p{
+    line-height: 22px;
+    color: #15295f;
+    opacity: 1;
+    animation: showText 0.5s 1s linear forwards;
+}
+.progress-line{
+    margin-top: 7px;
+    height: 10px;
+    width: 100%;
+    background-color: #cdcdcd;
+    border-radius: 50px;
+    position: relative;
+}
+.progress-line span{
+    transform: scaleX(0);
+    transform-origin: left;
+    animation: animate 1s cubic-bezier(1, 0, 0.5, 1) forwards;
+    height: 100%;
+    border-radius: 50px;
+    position: absolute;
+    background-color: #fd6e0a;
+    transition: 1s all;
+}
+.progress-line span.animate{
+    animation: animate 1.5s 0.5s cubic-bezier(1,0,0.5,1) forwards;
+}
+
+@keyframes showText{
+    100%{
+        opacity: 1;
+    }
+}
+@keyframes animate{
+    100%{
+        transform: scaleX(1);
+    }
+}

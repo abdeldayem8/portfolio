@@ -1,0 +1,18 @@
+#contact{
+    background: #d3d3d3 ;
+  }
+  .link{
+    width: fit-content;
+    margin: auto;
+  }
+  
+  form label{
+    margin-bottom: 3px;
+  }
+  
+  form input,form textarea{
+    margin-bottom: 10px;
+  }
+  .btn-contact{
+    padding-inline: 10px;
+  }

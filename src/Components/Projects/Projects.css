@@ -1,0 +1,33 @@
+#Projects{
+    background: #F5FAFA ;
+  }
+  .project-title{
+    color: #15295f;
+    margin-bottom: 3rem !important;
+  }
+  .project{
+    background-color: #DDD;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  }
+  .project img{
+    height: 258.4px;
+  }
+  .project h3{
+    color: #15295f;
+  }
+  .project p{
+    color: #fd6e0a;
+  }
+  .project span{
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  @media (max-width:1200px){
+    .spans {
+      flex-direction: column;
+    }
+    .spans span{
+      margin-bottom: 10px;
+    }
+  }

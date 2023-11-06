@@ -1,0 +1,22 @@
+.navbar{
+    background-color: #e0e0e0;
+  }
+  .navbar-toggler{
+    border: none !important;
+  }
+  .navbar-toggler-icon{
+    all: unset !important;
+  }
+  .navbar-toggler:focus{
+    outline: none !important;
+     box-shadow: none !important; 
+  }
+  
+  .collapse-transition {
+    max-height: 0;
+    transition: max-height 1s ease; /* Adjust the transition duration as needed */
+  }
+  
+  .collapse-transition.show {
+    max-height: 1000px; /* Set a reasonable maximum height or use a large value to allow for dynamic content */
+  }

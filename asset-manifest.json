@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.82e0f9de.css",
+    "main.js": "/portfolio/static/js/main.d7e94f58.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/fa-solid-900.ttf": "/portfolio/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/portfolio/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/portfolio/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/portfolio/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/fa-regular-400.ttf": "/portfolio/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/mohamedresume.pdf": "/portfolio/static/media/mohamedresume.ff7044fefb5af5df2a5f.pdf",
+    "static/media/photoabout.png": "/portfolio/static/media/photoabout.c5f254ab2d48ce949363.png",
+    "static/media/quiz.png": "/portfolio/static/media/quiz.4d74de213336b34de285.png",
+    "static/media/fa-regular-400.woff2": "/portfolio/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/crud.webp": "/portfolio/static/media/crud.96c9e87e53aa7955c800.webp",
+    "static/media/fresh.webp": "/portfolio/static/media/fresh.5e1b27cb5260c8f81a47.webp",
+    "static/media/Apple-Weather-app.webp": "/portfolio/static/media/Apple-Weather-app.e157ddf9fc23cc0fc0bc.webp",
+    "static/media/fa-v4compatibility.ttf": "/portfolio/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/portfolio/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/portfolio/index.html",
+    "main.82e0f9de.css.map": "/portfolio/static/css/main.82e0f9de.css.map",
+    "main.d7e94f58.js.map": "/portfolio/static/js/main.d7e94f58.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82e0f9de.css",
+    "static/js/main.d7e94f58.js"
+  ]
+}
